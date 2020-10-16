@@ -1,7 +1,5 @@
 # POS System With Layered Architecture
 
-POS System using Java,MySQL and Maven.
-
 In this **POS System** has all the functionalities of a POS system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
     * Manage customers
